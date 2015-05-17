@@ -4,3 +4,6 @@
 " License:     GPL
 
 autocmd BufNewFile,BufRead *.swift set filetype=swift
+
+setlocal shiftwidth=4
+setlocal tabstop=4
